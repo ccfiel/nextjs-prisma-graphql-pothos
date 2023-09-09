@@ -953,10 +953,10 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@boost/module@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@boost/module/-/module-4.0.0.tgz#97b5df519a60bd2a85226b0f1e8294cbe0e2003b"
-  integrity sha512-YyW8uhOrZsb6BTXi+46G3M9ThSg3TuHaUTSCWwYaHanaUygxQnYx2YWA6s8S3wUtUcqzNfs+PMSy7NAsUtUx3w==
+"@boost/module@^4.1.0":
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/@boost/module/-/module-4.1.0.tgz#a5eb95ada6d1019e1552ab55a5fc320350063e59"
+  integrity sha512-qCvvX+vpIqyFLOFpDWQSlU1HeZSW1ir9bdHxqaUbVnzBhaHeHBmMHpHLIDCNWCCnpaUq6GsJ9mnn/dXPR+pH0A==
 
 "@cspotcode/source-map-support@^0.8.0":
   version "0.8.1"
